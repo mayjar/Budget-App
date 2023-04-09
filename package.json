@@ -1,0 +1,11 @@
+{
+	"name": "budget-app",
+	"version": "0.0.1",
+	"description": "A budget app that allows you to track your budget, funds and spendings",
+	"main": "server.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Maykol Jara",
+	"license": "ISC"
+}
